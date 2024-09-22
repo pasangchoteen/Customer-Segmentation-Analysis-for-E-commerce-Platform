@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project focuses on performing customer segmentation analysis for an e-commerce platform using data scraped from Amazon. The analysis aims to identify distinct customer groups based on their purchasing behavior, which can be utilized for targeted marketing strategies.
-
+**_Disclaimer_**: _All datasets and reports do not represent any company, institution, or country but are based on simulated data to demonstrate analytical capabilities._
 ## Project Structure
 
 The project consists of the following Jupyter Notebook files:
@@ -41,14 +41,10 @@ To run this project, you need to have the following packages installed:
 
 You can install the required packages using pip:
 
-```bash
+'''bash
 pip install pandas numpy matplotlib seaborn scikit-learn beautifulsoup4 requests
-# Customer Segmentation Analysis for E-commerce Platform```
+# Customer Segmentation Analysis for E-commerce Platform'''
 
-## Introduction
-Welcome to the Customer Segmentation Analysis for E-commerce Platform repository! This project aims to provide a comprehensive analysis of customer behavior using data scraped from Amazon. By performing customer segmentation, the project seeks to uncover distinct groups based on purchasing behavior, enabling targeted marketing strategies and enhanced customer satisfaction.
-
-**_Disclaimer_**: _All datasets and reports do not represent any company, institution, or country but are based on simulated data to demonstrate analytical capabilities._
 
 ## Data Sources
 **Amazon Product Data**: The primary dataset used for this analysis is the "cleaned_amazon_data.csv" file, containing detailed information about products, including price, ratings, reviews, and brand.
