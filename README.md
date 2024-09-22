@@ -38,14 +38,7 @@ To run this project, you need to have the following packages installed:
 - scikit-learn
 - BeautifulSoup (for web scraping)
 - requests (for making HTTP requests)
-
-You can install the required packages using pip:
-
-'''bash
-pip install pandas numpy matplotlib seaborn scikit-learn beautifulsoup4 requests
-# Customer Segmentation Analysis for E-commerce Platform'''
-
-
+  
 ## Data Sources
 **Amazon Product Data**: The primary dataset used for this analysis is the "cleaned_amazon_data.csv" file, containing detailed information about products, including price, ratings, reviews, and brand.
 
@@ -122,3 +115,7 @@ The analysis is based on a limited dataset and may not fully capture all custome
 ## References
 1. Data scraping techniques from BeautifulSoup documentation.
 2. Pandas and Seaborn for data manipulation and visualization.
+
+## You can install the required packages using pip:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn beautifulsoup4 requests
