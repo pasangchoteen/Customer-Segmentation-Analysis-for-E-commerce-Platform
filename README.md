@@ -3,7 +3,9 @@
 ## Project Overview
 
 This project focuses on performing customer segmentation analysis for an e-commerce platform using data scraped from Amazon. The analysis aims to identify distinct customer groups based on their purchasing behavior, which can be utilized for targeted marketing strategies.
+
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution, or country but are based on simulated data to demonstrate analytical capabilities._
+
 ## Project Structure
 
 The project consists of the following Jupyter Notebook files:
@@ -46,11 +48,11 @@ To run this project, you need to have the following packages installed:
 - **Python**: For data scraping, cleaning, and analysis
 - **Visual Studio Code**: For exploratory data analysis and visualization
 - **Libraries**:
-  -pandas: For data manipulation and analysis.
-  -numpy: For numerical operations and handling arrays.
-  -matplotlib: For creating static, interactive, and animated visualizations.
-  -seaborn: For enhanced statistical data visualization.
-  -sklearn: For machine learning and predictive modeling.
+  1.   pandas: For data manipulation and analysis.
+  2.   numpy: For numerical operations and handling arrays.
+  3.   matplotlib: For creating static, interactive, and animated visualizations.
+  4.   seaborn: For enhanced statistical data visualization.
+  5.   sklearn: For machine learning and predictive modeling.
 
 ## Data Cleaning/Processing
 The dataset has been cleaned and is ready for analysis. Key preprocessing steps include:
