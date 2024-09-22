@@ -43,7 +43,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn beautifulsoup4 requests
-# Customer Segmentation Analysis for E-commerce Platform
+# Customer Segmentation Analysis for E-commerce Platform```
 
 ## Introduction
 Welcome to the Customer Segmentation Analysis for E-commerce Platform repository! This project aims to provide a comprehensive analysis of customer behavior using data scraped from Amazon. By performing customer segmentation, the project seeks to uncover distinct groups based on purchasing behavior, enabling targeted marketing strategies and enhanced customer satisfaction.
